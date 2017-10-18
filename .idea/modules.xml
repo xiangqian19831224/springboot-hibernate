@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SpringBootHibernateExample.iml" filepath="$PROJECT_DIR$/SpringBootHibernateExample.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hibernate.iml" filepath="$PROJECT_DIR$/hibernate.iml" />
+      <module fileurl="file://D:\学习\github分享\springboot\hibernate\jdbc.iml" filepath="D:\学习\github分享\springboot\hibernate\jdbc.iml" />
     </modules>
   </component>
 </project>
