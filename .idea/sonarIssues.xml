@@ -8,6 +8,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar!/javax/persistence/Id.class">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/pom.xml">
           <value>
             <set />
@@ -73,7 +78,132 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/org/arpit/java2blog/HibernateConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/webapp/WEB-INF/customerDetails.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../springboot-example/Spring-boot-hibernate-annotation/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../springboot-example/Spring-boot-hibernate-annotation/src/main/java/com/example/demo/controller/CunstomerController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../springboot-example/Spring-boot-hibernate-annotation/src/main/java/com/example/demo/dao/CustomerDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../springboot-example/Spring-boot-hibernate-annotation/src/main/java/com/example/demo/dao/CustomerDaoImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../springboot-example/Spring-boot-hibernate-annotation/src/main/java/com/example/demo/service/CustomerService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../springboot-example/Spring-boot-hibernate-annotation/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../springboot-example/Spring-boot-hibernate/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../springboot-example/spring-boot-mysql-hibernate/src/main/java/netgloo/models/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../springboot-example/spring-boot-mysql-hibernate/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../train/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../train/src/main/java/com/example/train/controller/CustomerController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../train/src/main/java/com/example/train/dao/CustomerDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../train/src/main/java/com/example/train/dao/CustomerDaoImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../train/src/main/java/com/example/train/service/CustomerService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../train/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../learn/spring-boot-samples/spring-boot-mysql-hibernate/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../learn/spring-boot-samples/spring-boot-mysql-hibernate/src/main/java/netgloo/Application.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../learn/spring-boot-samples/spring-boot-mysql-hibernate/src/main/java/netgloo/configs/DatabaseConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../learn/spring-boot-samples/spring-boot-mysql-hibernate/src/main/java/netgloo/controllers/MainController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../learn/spring-boot-samples/spring-boot-mysql-hibernate/src/main/java/netgloo/controllers/UserController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../learn/spring-boot-samples/spring-boot-mysql-hibernate/src/main/java/netgloo/models/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../learn/spring-boot-samples/spring-boot-mysql-hibernate/src/main/java/netgloo/models/UserDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../learn/spring-boot-samples/spring-boot-mysql-hibernate/src/main/resources/application.properties">
           <value>
             <set />
           </value>
